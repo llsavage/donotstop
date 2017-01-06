@@ -1,0 +1,66 @@
+@font-face {
+	font-family: HighwayGothicWide; 
+	src: url(/Users/llsavage/Library/Fonts/HWYGWDE.TTF);
+}
+@font-face {
+	font-family: HighwayGothicCondensed; 
+	src: url(/Users/llsavage/Library/Fonts/HWYGCOND.TTF);
+}
+
+.intro{
+	margin:auto;
+	width:95%;
+	height:100%;
+	margin-top:5px;
+
+}
+
+#intro {
+	padding:10px;
+	margin-top:-5px;
+	font-family: HighwayGothicWide;
+	font-size:30px;
+	color:red;
+	line-height:35px;
+}
+
+#statement{
+	position:relative;
+	margin-top:100px;
+	padding:10px;
+	font-family: HighwayGothicWide;
+	font-size:30px;
+	color:red;
+	text-align:center;
+}
+
+#download{
+	margin:auto;
+	margin-top:150px;
+	margin-bottom:200px;
+	padding:10px;
+	font-family: HighwayGothicWide;
+	font-size:30px;
+	color:red;
+	text-align:center;
+}
+
+a img{
+	width:200px;
+	margin-left:40px;
+	margin-right:40px;
+}
+
+#info{
+	clear:left;
+	margin:auto;
+	font-family:HighwayGothicCondensed;
+	font-size:24px;
+	text-align:center;
+	width:40%;
+	padding-top:10px;
+	padding-bottom:10px;
+	border-radius:10px;
+	border-style:solid;
+	border-color:black;
+}
